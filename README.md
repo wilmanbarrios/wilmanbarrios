@@ -4,7 +4,7 @@
 
 ⚡ Enamorado de la agilidad de Neovim y su excelente rendimiento sobre otros editores de texto que he usado antes.
 
-🧑‍💻 Arch Linux esta en mi máquina principal, trato de conquistar el mundo un comando a la vez.
+🧑‍💻 Arch Linux está en mi máquina principal, trato de conquistar el mundo un comando a la vez.
 
 ❤️ 🎶 La música es mi mejor amigo.
 
