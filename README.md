@@ -8,4 +8,4 @@
 
 ❤️ 🎶 La música es mi mejor amigo.
 
-🔭 Actualmente estoy trabando con [La Caja Company](https://lacaja.company/) en [Contery](https://contery.com/)
+🔭 Actualmente estoy trabajando con [La Caja Company](https://lacaja.company/) en [Contegy](https://contegy.io/)
