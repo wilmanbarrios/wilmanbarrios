@@ -1,11 +1,9 @@
-### 👋 Hola
+### Wilman Barrios
 
-🙋‍♂️ Soy desarrollador Full Stack con un amor especial por las tecnologías front-end y el diseño web, gran fan de Laravel y su ecosistema.
+I am a Full-Stack Developer from Puerto La Cruz, Venezuela.
 
-⚡ Enamorado de la agilidad de Neovim y su excelente rendimiento sobre otros editores de texto que he usado antes.
+About me:
 
-🧑‍💻 Arch Linux está en mi máquina principal, trato de conquistar el mundo un comando a la vez.
-
-❤️ 🎶 La música es mi mejor amigo.
-
-🔭 Actualmente estoy trabajando con [La Caja Company](https://lacaja.company/) en [Contegy](https://contegy.io/)
+- I do all my coding in [nvim](https://github.com/neovim/neovim)
+- I'm specialized in Laravel, Vue.js and React
+- Regularly practice my typing speed in [typeracer](https://data.typeracer.com/pit/profile?user=wilmanbarrios)
